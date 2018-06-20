@@ -1,5 +1,0 @@
-# "edit_content_book_name.py" is being used for :
-	1. Changing the version name
-	2. Unwanted contents and tags are being removed
-
-# For the additional removal of "\f" i.e. footnotes and "\r" i.e. ref. also is being removed.

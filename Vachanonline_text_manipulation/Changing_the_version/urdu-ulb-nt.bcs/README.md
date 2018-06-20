@@ -1,3 +1,0 @@
-# URDU-ULB-NT.BCS
-
-LEVEL 1,2
